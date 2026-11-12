@@ -12,7 +12,7 @@ ModelScan Bypass: 5 Undetected Arbitrary Code Execution Methods via Pickle Deser
 (Copy the content of huntr_report.md)
 
 ### PoC Repository
-https://github.com/alsaibaiclaw/modelscan-bypass-poc
+https://github.com/hussain-alsaibai/modelscan-bypass-poc
 
 ### Category
 Unique methods to bypass existing model scanning tools
@@ -31,4 +31,4 @@ ProtectAI ModelScan (https://github.com/protectai/modelscan)
 5. Submit
 
 ## GitHub Repo
-https://github.com/alsaibaiclaw/modelscan-bypass-poc
+https://github.com/hussain-alsaibai/modelscan-bypass-poc
